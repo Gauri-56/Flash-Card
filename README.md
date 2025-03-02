@@ -17,7 +17,7 @@ A powerful tool for learning and practicing flashcards with boxed-spacing repeti
 
 ## Installation
 
-- Clone the repository: `git clone https://github.com/siddhant-vij/Flashcard-App.git`
+- Clone the repository: `https://github.com/Gauri-56/Flash-Card.git`
 - Navigate to the project directory: `cd Flashcard-App`
 - Install dependencies: `conda create --name flashcard-app --file requirements.txt`
 - Activate the environment: `conda activate flashcard-app`
